@@ -1,4 +1,7 @@
-<h1 align="center">Hola , soy Luis Alberto Chambi Qquehue</h1>
+![Descripción de la imagen](C:\Users\punto\Downloads\Futuristic Cybersecurity Analyst.jpeg)
+
+
+<h1 align="center">Hola 👋, soy Luis Alberto Chambi Qquehue</h1>
 <h3 align="center">También conocido como Luczho01 en GitHub</h3>
 <h3 align="center">Un apasionado Analista de Datos de Perú 🇵🇪 </h3>
 
